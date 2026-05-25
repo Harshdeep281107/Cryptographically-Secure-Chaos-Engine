@@ -1,0 +1,3 @@
+git add .
+git add file1.cpp file2.exe
+git commit -m < "Never Give Up">
